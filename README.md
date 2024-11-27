@@ -48,8 +48,8 @@ A fun decentralized app that delivers wisdom with a twist using **Cowsay** and *
 - 🌐 Hosted on **GitHub Actions CI/CD**.
 [View Project](https://github.com/Sivaprakashjr15/wisecow1)
 
-### 🔗 **Decentralized Voting System**
-A secure voting platform built using **Solidity** and **React**.
+### 🎉 **Easy- Raise**
+A secure fund raising platform built using **Solidity** and **React**.
 - 💡 Utilized **Web3.js** for blockchain interactions.
 [View Project](https://github.com/Sivaprakashjr15/Easy-Raise.git)
 
