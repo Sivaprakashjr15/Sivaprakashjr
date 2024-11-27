@@ -16,6 +16,8 @@ Hi there! 👋 I'm Sivaprakasam, a passionate **Web Developer** specializing in 
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-363636?logo=solidity&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-363636?logo=solidity&logoColor=white&style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
